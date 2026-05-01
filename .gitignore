@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files — do NOT commit datasets
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.jsonl
+
+# Environment and secrets
+.env
+*.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Output artifacts
+*.png
+*.jpg
+*.pdf
+*.html
