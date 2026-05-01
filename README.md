@@ -206,6 +206,6 @@ pip install -r requirements.txt
 
 ## Author
 
-Revanth venkata Shesha Sai Pavan Kumar Vudutha
-Master's in Information Systems
+Revanth venkata Shesha Sai Pavan Kumar Vudutha  
+Master's in Information Systems  
 Syracuse University
